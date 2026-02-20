@@ -16,6 +16,6 @@
 
 Berikut adalah hasil dari perintah `flutter doctor` yang menunjukkan bahwa semua komponen telah terinstal dan terkonfigurasi dengan baik:
 
-![Hasil Flutter Doctor](Pertemuan1/Pertemuan1.png)
+![Hasil Flutter Doctor](Pertemuan1.png)
 
 > **Catatan:** Semua komponen telah terpasang dengan baik dan tidak ada issue yang ditemukan (`No issues found!`).
