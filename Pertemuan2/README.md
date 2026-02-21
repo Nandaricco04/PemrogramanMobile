@@ -73,6 +73,7 @@ Buatlah penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan La
 Null Safety adalah fitur Dart yang mencegah variabel bernilai null secara tidak sengaja, sehingga mengurangi error saat program berjalan (runtime error).
 
 Contohnya
+
 ![Null Safety](img/NullSafetyError.png)
 ![Null Safety](img/NullSafetyErrorOutput.png)
 Kenapa error? karena variabel name belum ada nilainya
@@ -88,6 +89,7 @@ atau bisa juga dengan menambahkan "?" jadi nanti outputnya akan null
 Late variable digunakan untuk menunda pengisian nilai variabel. Dengan late, programmer berjanji bahwa variabel akan diisi sebelum digunakan. Jika tidak, program akan mengalami error saat dijalankan.
 
 Contohnya
+
 ![Late Variabel](img/LateVariabelError.png)
 ![Late Variabel](img/LateVariabelErrorOutput.png)
 walaupun codenya tidak error, pada saat kita run akan muncul error "LateInitializationError" karena kita belum mengisi variable namenya
