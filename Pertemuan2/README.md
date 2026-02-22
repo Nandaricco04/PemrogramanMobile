@@ -45,7 +45,7 @@ Memahami bahasa pemrograman Dart sangat penting sebelum menggunakan Flutter kare
 
 Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gunakan untuk membantu proses pengembangan aplikasi mobile menggunakan framework Flutter.
 
-**Jawaban:**
+**Jawab:**
 
 1. Flutter memakai Dart sebagai bahasa utama untuk membangun tampilan (widget) dan logika aplikasi.
 2. Dart menyediakan alat pengembangan yang lengkap, memiliki garbage collector, dan menjaga kode tetap aman lewat type safety.
@@ -66,7 +66,7 @@ Rangkumlah materi dari codelab ini menjadi poin-poin penting yang dapat Anda gun
 
 Buatlah penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan Late variabel!
 
-**Jawaban:**
+**Jawab:**
 
 #### Null Safety
 
