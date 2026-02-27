@@ -103,7 +103,7 @@ Errornya sama seperti sebelumnya yaitu variabel counter belum di deklarasikan
 
 Perbaikannya sama seperti sebelumnya juga yaitu mendeklarasikan variabel counternya
 
-![Output Praktikum 2](img/praktikum2_S2_perbaikan.png)
+![Output Praktikum 2](img/praktikum2_S3_perbaikan.png)
 
 ## Praktikum 3
 ### Langkah 1:
