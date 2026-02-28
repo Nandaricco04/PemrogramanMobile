@@ -9,7 +9,10 @@
 | Kelas   | SIB-2D                       |
 ---
 
-## Tugas Praktikum 3
+# Tugas Praktikum 3
+
+# Soal 1
+Silakan selesaikan Praktikum 1 sampai 3, lalu dokumentasikan berupa screenshot hasil pekerjaan beserta penjelasannya!
 
 ## Praktikum 1
 ### Langkah 1:
@@ -147,3 +150,14 @@ Terjadi error karena penulisan If dan Else If menggunakan huruf kapital, padahal
 Perbaikannya yaitu mengubah penulisan If dan Else If menjadi if dan else if, serta mengganti operator || dengan && agar perintah print tetap berjalan dan menghasilkan output angka 10 sampai 20, lalu berhenti di index 21 karena adanya break
 
 ![Output Praktikum 3](img/praktikum3_S3_perbaikan.png)
+
+# Soal 2
+Buatlah sebuah program yang dapat menampilkan bilangan prima dari angka 0 sampai 201 menggunakan Dart. Ketika bilangan prima ditemukan, maka tampilkan nama lengkap dan NIM Anda.
+
+Code Program
+
+![Code Bilangan Prima](img/BilanganPrima.png)
+
+Outputnya
+
+![Output Bilangan Prima](img/BilanganPrimaOutput.png)
