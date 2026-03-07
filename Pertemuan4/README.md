@@ -48,9 +48,11 @@ Ubah kode pada langkah 1 menjadi variabel final yang mempunyai index = 5 dengan 
 Apa yang terjadi? Jika terjadi error, silakan perbaiki.
 
 Codenya
+
 ![Output Praktikum 1](img/tipeDatalist1.png)
 
 Outputnya
+
 ![Output Praktikum 1](img/tipeDatalistOutput.png)
 
 ## Praktikum 2: Eksperimen Tipe Data Set
