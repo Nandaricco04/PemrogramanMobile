@@ -93,9 +93,11 @@ Apa yang terjadi? Jika terjadi error, silakan perbaiki namun tetap gunakan ketig
 Dokumentasikan kode dan hasil di console, lalu buat laporannya.
 
 Codenya
+
 ![Output Praktikum 2](img/tipeDataSet1.png)
 
 Outputnya
+
 ![Output Praktikum 2](img/tipeDataSetOutput.png)
 
 ## Praktikum 3: Eksperimen Tipe Data Maps
