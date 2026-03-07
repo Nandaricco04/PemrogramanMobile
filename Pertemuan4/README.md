@@ -187,10 +187,12 @@ print(list2.length);
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
 ![Output Praktikum 4](img/Spread_CFO.png)
+
 Terjadi error karena list 1 tidak ada, perbaikannya yaitu mengubah list1 menjadi list
 ![Output Praktikum 4](img/Spread_CFO1.png)
+
 dan outpunya yaitu
-![Output Praktikum 4](img/Spread_CFO_output.png)
+![Output Praktikum 4](img/Spread_CFO_Output.png)
 
 **Langkah 3:**
 
@@ -212,7 +214,7 @@ Perbaikannya yaitu dengan menambahakan var di list1
 ![Output Praktikum 4](img/Spread_CFO3.png)
 
 dan outputnya yaitu
-![Output Praktikum 4](img/Spread_CFO_output1.png)
+![Output Praktikum 4](img/Spread_CFO_Output1.png)
 
 Tambahkan variabel list berisi NIM Anda menggunakan Spread Operators. Dokumentasikan hasilnya dan buat laporannya.
 
@@ -220,7 +222,7 @@ Codenya
 ![Output Praktikum 4](img/Spread_CFO4.png)
 
 Outputnya
-![Output Praktikum 4](img/Spread_CFO_output2.png)
+![Output Praktikum 4](img/Spread_CFO_Output2.png)
 
 **Langkah 4:**
 
@@ -240,10 +242,10 @@ Solusinya mendeklarasikan var promoActive
 ![Output Praktikum 4](img/Spread_CFO6.png)
 
 Outpunya jika promoActive True
-![Output Praktikum 4](img/Spread_CFO_output3.png)
+![Output Praktikum 4](img/Spread_CFO_Output3.png)
 
 Outpunya jika promoActive False
-![Output Praktikum 4](img/Spread_CFO_output4.png)
+![Output Praktikum 4](img/Spread_CFO_Output4.png)
 
 **Langkah 5:**
 
@@ -263,13 +265,13 @@ Solusinya mendeklarasikan var Login dengan nilainya adalah manager
 ![Output Praktikum 4](img/Spread_CFO8.png)
 
 Outpunya jika Login nilainya manager
-![Output Praktikum 4](img/Spread_CFO_output5.png)
+![Output Praktikum 4](img/Spread_CFO_Output5.png)
 
 Code jika Login nilainya selain manager(user)
 ![Output Praktikum 4](img/Spread_CFO9.png)
 
 Outpunya jika Login nilainya selain manager(user)
-![Output Praktikum 4](img/Spread_CFO_output6.png)
+![Output Praktikum 4](img/Spread_CFO_Output6.png)
 
 **Langkah 6:**
 
@@ -305,12 +307,15 @@ print(record)
 Silakan coba eksekusi (Run) kode pada langkah 1 tersebut. Apa yang terjadi? Jelaskan! Lalu perbaiki jika terjadi error.
 
 ![Output Praktikum 5](img/tipeDatarecord.png)
+
 Terjadi error karena pada code kurang menambahkan ";" pada akhir print(record)
 
 perbaikannya yaitu menambahkan ";" pada akhir print(record)
+
 ![Output Praktikum 5](img/tipeDatarecord1.png)
 
 Outputnya
+
 ![Output Praktikum 5](img/tipeDatarecordOutput.png)
 
 Program akan menampilkan seluruh isi record ke layar, yaitu 'first' dan 'last' sebagai data berurutan, serta a: 2 dan b: true sebagai data bernama.
