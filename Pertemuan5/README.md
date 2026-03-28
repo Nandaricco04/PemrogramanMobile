@@ -18,27 +18,27 @@ Selesaikan Praktikum 1 sampai 5, lalu dokumentasikan dan push ke repository Anda
 ![Output Praktikum 1](img/praktikum1.png)
 
 ### Praktikum 3
-Github:
+**Github:**
 ![Output Praktikum 3](img/praktikum3_1.png)
 
-Laporan images:
+**Laporan images:**
 ![Output Praktikum 3](img/praktikum3.png)
 
 ### Praktikum 4
-Langkah 1 Text Widget
+**Langkah 1 Text Widget**
 
 ![Output Praktikum 4](img/praktikum4_1.jpeg)
 
-Langkah 2 Image Widget
+**Langkah 2 Image Widget**
 
 ![Output Praktikum 4](img/praktikum4_2.jpeg)
 
 ### Praktikum 5
-Langkah 1: Cupertino Button dan Loading Bar
+**Langkah 1: Cupertino Button dan Loading Bar**
 
 ![Output Praktikum 5](img/praktikum5_1.jpeg)
 
-Langkah 2: Floating Action Button (FAB)
+**Langkah 2: Floating Action Button (FAB)**
 
 ![Output Praktikum 5](img/praktikum5_2.jpeg)
 
@@ -51,19 +51,19 @@ Selesaikan Praktikum 2 dan Anda wajib menjalankan aplikasi hello_world pada pera
 ## Soal 3
 Pada praktikum 5 mulai dari Langkah 3 sampai 6, buatlah file widget tersendiri di folder `basic_widgets`, kemudian pada file `main.dart` cukup melakukan import widget sesuai masing-masing langkah tersebut!
 
-Langkah 3: Scaffold Widget
+**Langkah 3: Scaffold Widget**
 
 ![Output Praktikum 5](img/praktikum5_3.jpeg)
 
-Langkah 4: Dialog Widget
+**Langkah 4: Dialog Widget**
 
 ![Output Praktikum 5](img/praktikum5_4.gif)
 
-Langkah 5: Input dan Selection Widget
+**Langkah 5: Input dan Selection Widget**
 
 ![Output Praktikum 5](img/praktikum5_5.gif)
 
-Langkah 6: Date and Time Pickers
+**Langkah 6: Date and Time Pickers**
 
 ![Output Praktikum 5](img/praktikum5_6.gif)
 
