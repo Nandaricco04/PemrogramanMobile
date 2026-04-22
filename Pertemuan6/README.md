@@ -178,7 +178,7 @@ Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
 Navigator.pushNamed(context, '/item', arguments: item);
 ```
 
-![Output Tugas 2](img/tugas2.png)
+![Output Tugas 2](img/Tugas2.png)
 
 ## 2. Pembacaan nilai yang dikirimkan pada halaman sebelumnya dapat dilakukan menggunakan ModalRoute. Tambahkan kode berikut pada blok fungsi build dalam halaman ItemPage. Setelah nilai didapatkan, anda dapat menggunakannya seperti penggunaan variabel pada umumnya. (https://docs.flutter.dev/cookbook/navigation/navigate-with-arguments)
 
