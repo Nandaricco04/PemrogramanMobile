@@ -117,7 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 
 **Output**
-![Output Tugas 1](img/tugas1.jpeg)
+![Output Tugas 1](img/Tugas1.jpeg)
 
 ## Soal 2
 Jelaskan maksud dari langkah 2 pada praktikum tersebut!
