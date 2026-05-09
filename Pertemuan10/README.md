@@ -1,4 +1,4 @@
-# Laporan Praktikum #09 | Kamera
+# Laporan Praktikum #10 | Dasar State Management
 
 ## Identitas Mahasiswa
 
@@ -8,7 +8,7 @@
 | NIM     | 244107060058                 |
 | Kelas   | SIB-2D   
 
-# Tugas Praktikum 9 - 1: Dasar State dengan Model-View
+# Tugas Praktikum 10 - 1: Dasar State dengan Model-View
 
 ## Soal 1
 Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki.
@@ -99,7 +99,7 @@ Kedua method ini penting untuk mengelola resource widget secara efisien dan aman
 **Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke dosen yang telah disepakati !**
 
 ---
-# Tugas Praktikum 9 - 2: InheritedWidget
+# Tugas Praktikum 10 - 2: Mengelola Data Layer dengan InheritedWidget dan InheritedNotifier
 
 ## Soal 1
 Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki sesuai dengan tujuan aplikasi tersebut dibuat.
@@ -159,7 +159,7 @@ Pada langkah ini menambahkan widget SafeArea yang menampilkan pesan progress tug
 **Kumpulkan laporan praktikum Anda berupa link commit atau repository GitHub ke dosen yang telah disepakati !**
 
 ---
-# Tugas Praktikum 9 - 3: State di Multiple Screens
+# Tugas Praktikum 10 - 3: Membuat State di Multiple Screens
 
 ## Soal 1
 Selesaikan langkah-langkah praktikum tersebut, lalu dokumentasikan berupa GIF hasil akhir praktikum beserta penjelasannya di file README.md! Jika Anda menemukan ada yang error atau tidak berjalan dengan baik, silakan diperbaiki sesuai dengan tujuan aplikasi tersebut dibuat.
@@ -213,7 +213,6 @@ Berdasarkan Praktikum 3 yang telah Anda lakukan, jelaskan maksud dari gambar dia
 
 ![Soal 2](img/soal2.png)
 
-Copilot said: Diagram ini menjelaskan **arsitektur State Management** menggunakan
 Diagram ini menjelaskan arsitektur State Management menggunakan InheritedNotifier dan Navigator untuk navigasi multi-screen dengan state yang terbagi.
 
 Komponen Utama:
